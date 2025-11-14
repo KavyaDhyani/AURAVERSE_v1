@@ -1,0 +1,9 @@
+flask
+flask-cors
+pillow
+torch
+torchvision
+transformers
+opencv-python
+numpy
+google-cloud-vision
